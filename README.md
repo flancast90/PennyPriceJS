@@ -1,4 +1,4 @@
-##Penny PriceJS
+## Penny PriceJS
 
 >A simple Chrome Extension to shop better!
 
