@@ -240,7 +240,7 @@ background-size: 80% 80% !important;
 
 
 </div>
-<img id="loading-anim" class="loading-anim" src="loading.gif">
+<img id="loading-anim" class="loading-anim" src="assets/loading.gif">
 <canvas id="loading-back" class="loading-back"></canvas>
 <p id="pageId" style="display:none"></p>
 <!-- Photo Grid -->
