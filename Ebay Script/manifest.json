@@ -1,0 +1,24 @@
+{
+  "name": "PennyPrice Finder",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Ebay: get price of product compared to other internet values in a clean and navigable user interface",
+  "browser_action": 
+{
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+},
+"content_security_policy": "script-src 'self' https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js; object-src 'self'",
+"background": {
+    "page": "opener.html",
+    "persistent": false
+  },
+"icons": {"128": "icon.png"},
+  "content_scripts": [
+   {
+      "matches": 
+	  ["*://www.ebay.com/itm/*"],
+      "js": ["jquery.min.js", "smtp.js", "script.js"]
+    }
+   ]
+  }

@@ -1,0 +1,24 @@
+document.body.innerHTML += `
+<title>Best Deals: Don't Miss Out!</title>
+<canvas style="position: absolute; width: 100%; height: 20%; top: 0px; left:0px; background-color: red;"></canvas>
+<img id="best-today" src="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/05.Tag-128.png"></img>
+<p id="best-today1">Todays Best Deals:</p>
+`
+document.head.innerHTML += `
+<style> 
+#best-today {
+	position: absolute;
+	top: 5px;
+	left: 30%; 
+	height: 110px;
+	width: 110px;
+}
+#best-today1 {
+	position: absolute;
+	color: white; 
+	top: 30px;
+	left: 40%; 
+	font-size: 100px;
+}
+</style>
+`
