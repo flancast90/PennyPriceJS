@@ -1,6 +1,6 @@
 {
   "name": "PennyPrice Finder",
-  "version": "0.1",
+  "version": "1.3",
   "manifest_version": 2,
   "description": "Ebay: get price of product compared to other internet values in a clean and navigable user interface",
   "browser_action": 
@@ -18,7 +18,7 @@
    {
       "matches": 
 	  ["*://www.ebay.com/itm/*"],
-      "js": ["jquery.min.js", "smtp.js", "script.js"]
+      "js": ["assets/js/jquery.min.js", "assets/js/smtp.js", "assets/js/script.js"]
     }
    ]
   }
