@@ -1,3 +1,5 @@
+##Penny PriceJS
+
 >A simple Chrome Extension to shop better!
 
 Welcome to PennyPriceJS, a quick and easy way to save time and money on eBay! Made by <a href="https://github.com/flancast90">@flancast90</a> for the AP Computer Science Principles Create Performance Task 2021, this script is made to be uploaded to Chrome to alert users of new and better deals.
