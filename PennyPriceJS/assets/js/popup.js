@@ -2,9 +2,9 @@ document.body.innerHTML += `
 <div style="height: 200px; width: 200px;"></div>
 <button id="today" style="position: fixed; height: 60px; font-size: 20px; width: 190px; top: 5px; left: 12.5px; border-radius: 5px;">View Today's Deals</button>
 <ul style="position: fixed; top: 60px; font-size: 20px;">
-<li id="contact"><img src="mail.png" style="width: 20px; height: 15px;"></img><a href="javascript:void(0);">Contact</a></li>
-<li id="donate"><img src="donate.png" style="width:20px; height: 15px;"></img><a href="javascript:void(0);">Website</a></li>
-<li id="settings"><img src="gear.png" style="width: 20px; height: 15px;"></img><a href="javascript:void(0);">Settings</a></li>
+<li id="contact"><img src="assets/mail.png" style="width: 20px; height: 15px;"></img><a href="javascript:void(0);">Contact</a></li>
+<li id="donate"><img src="assets/Donate.png" style="width:20px; height: 15px;"></img><a href="javascript:void(0);">Website</a></li>
+<li id="settings"><img src="assets/gear.png" style="width: 20px; height: 15px;"></img><a href="javascript:void(0);">Settings</a></li>
 </ul>
 
 <a href="javascript:void(0);"><img style="position: fixed; bottom: 5px; left: 60px; height: 30px; width: 30px;" id="stack" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-128.png"></img></a>
