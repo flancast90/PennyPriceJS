@@ -1,3 +1,6 @@
+document.head.innerHTML += `
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+`
 document.body.innerHTML += `
 <div style="height: 200px; width: 200px;"></div>
 <button id="today" style="position: fixed; height: 60px; font-size: 1.1em; width: 200px; top:0px; left:0px; background-color:white; border:none;">View Today's Deals</button>
@@ -12,8 +15,6 @@ document.body.innerHTML += `
 <a href="javascript:void(0);"><img style="position: fixed; bottom: 5px; left: 60px; height: 30px; width: 30px;" id="stack" src="https://cdn1.iconfinder.com/data/icons/picons-social/57/stackoverflow_rounded-128.png"></img></a>
 <a href="javascript:void(0);"><img style="position: fixed; bottom: 5px; left: 90px; height: 30px; width: 30px;" id="git" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-1-1/24/_github-128.png"></img></a>
 <a href="javascript:void(0);"><img style="position: fixed; bottom: 5px; left: 120px; height: 30px; width: 30px;" id="mail" src="https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-2-128.png"></img></a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 `
 document.getElementById('today').addEventListener('click',function(){
 window.open('dashboard.html');
