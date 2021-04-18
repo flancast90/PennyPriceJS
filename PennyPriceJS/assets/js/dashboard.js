@@ -234,7 +234,7 @@ background-size: 80% 80% !important;
 <!--  <canvas id="donateBack" style="position: absolute; height: 120px; width: 95%; left: 2.5%; background-color: #42cacd; top: 45px; z-index: -1; border-radius: 10px;"></canvas>
 <center><p id="donateText" style="position: absolute; top: 100px; z-index: 1;">
 <h2>Donate Today</h2>
-<p><b>Contribute to show your appreciation for our services. It is greatly appreciated! <a href="https://www.google.com/">Help Us Out</a> now.</b>
+<p><b>Show your appreciation for our services by giving this project<a class="github-button" href="https://github.com/flancast90/PennyPriceJS" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Star flancast90/PennyPriceJS on GitHub">A Star</a> now!</b>
 </p></center>
 <img id="exit" src="https://cdn2.iconfinder.com/data/icons/basic-4/512/close-128.png" style="position: absolute; z-index: 0; width: 15px; height: 15px; right: 2.7%; top: 50px;"></img>-->
 
