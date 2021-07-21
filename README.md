@@ -7,9 +7,9 @@ Welcome to PennyPriceJS, a quick and easy way to save time and money on eBay! Ma
 **Latest Version**[![Stable Version Badge](https://img.shields.io/badge/Stable-v1.3-brightgreen)](https://github.com/flancast90/PennyPriceJS/releases/latest)
 
 ## Screenshots 
-[![Popup](https://i.imgur.com/uguIjeL.png)]
+[![Popup](https://i.imgur.com/sVdWSpZ.png)]
 [![Dashboard](https://i.imgur.com/1BG8mTh.png)]
-[![Compare](https://i.imgur.com/TewpLQ9.png)]
+[![Compare](https://i.imgur.com/FzH0uk7.png)]
 
 ## Use Now!
 <a href="https://github.com/flancast90/PennyPriceJS/archive/refs/heads/main.zip">Download</a> and then upload the ```PennyPriceJS``` folder to chrome via the instructions given <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/">here</a>.
